@@ -1,0 +1,2 @@
+# HelloMiniApplication
+weixin mini application
